@@ -15,7 +15,7 @@ public class ImageTypeConvertor {
 		JPEGTranscoder myTranscoder=new JPEGTranscoder();
 		
 		myTranscoder.addTranscodingHint(JPEGTranscoder.KEY_QUALITY, new Float(.8));
-		String svgUri=new File("Metropolitan_and_Micropolitan_Statistical_Areas_of_the_United_States_and_Puerto_Rico.svg").toURL().toString();
+		String svgUri=new File("2016_gybe_front5000_landskroon.svg").toURL().toString();
 		TranscoderInput input=new TranscoderInput(svgUri);
 		
 		OutputStream myOutputStream=new FileOutputStream("out.jpg");
