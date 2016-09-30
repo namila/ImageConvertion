@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/batik-rasterizer.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/batik-slideshow.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/batik-squiggle.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/batik-svgpp.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/batik-ttf2svg.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/batik.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-anim.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-awt-util.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-bridge.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-codec.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-css.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-dom.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-ext.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-extension.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-gui-util.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-gvt.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-parser.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-script.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-svg-dom.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-svggen.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-swing.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-transcoder.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-util.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/batik-xml.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/js.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/xalan-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/xerces_2_5_0.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/xml-apis-ext.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/extensions/batik-rasterizer-ext.jar"/>
+	<classpathentry kind="lib" path="/Users/namilap/Documents/ProjectTrials/LambdhaDemo/batik-1.7.1/extensions/batik-squiggle-ext.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
